@@ -259,6 +259,8 @@ class Sorting_by_parameters:
         plt.legend()
         plt.show()
 
+    def energy_content_vs_z_highE(self):
+
 
 
     def fundamental_for_high_N(self, day):
